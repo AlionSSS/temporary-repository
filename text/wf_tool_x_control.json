@@ -1,6 +1,7 @@
 {
   "allow": [
     { "code": "665C6E9A118623CB4291AA65B40E6DE4", "tabs": ["home", "normal", "script", "other"], "desc": "mine"},
-    { "code": "E693854723389365BC708D49FEE9ABB7", "tabs": ["home", "normal", "other"], "desc": "xiaokang"}
+    { "code": "E693854723389365BC708D49FEE9ABB7", "tabs": ["home", "normal", "other"], "desc": "xiaokang"},
+    { "code": "E392B4D182E4526D5AFFAFC9B420D765", "tabs": ["home", "other"], "desc": "QQ244575149"}
   ]
 }
